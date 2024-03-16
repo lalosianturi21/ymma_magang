@@ -6,7 +6,7 @@
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel_8_blog.git
+https://github.com/lalosianturi21/ymma_magang.git
 ```
 
 **Download zip**
